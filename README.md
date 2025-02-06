@@ -22,10 +22,10 @@
 
 Репозиторий содержит следующие файлы и директории:
 
-- **C13_M4.html**: HTML-файл для модуля 4.
-- **C13_M4.ipynb**: Jupyter Notebook для модуля 4.
-- **C13_M5.html**: HTML-файл для модуля 5.
-- **C13_M5.ipynb**: Jupyter Notebook для модуля 5.
+- **C13_M4.html**: HTML-файл для удобства просмотра.
+- **C13_M4.ipynb**: Jupyter Notebook с кодом загрузки через Dask и сохранение данных в Parqet.
+- **C13_M5.html**: HTML-файл для удобства просмотра.
+- **C13_M5.ipynb**: Jupyter Notebook с кодом обучения 3х алгоритмов Random Forest, Gradient Boosting, LinearRegression.
 - **README.md**: Этот файл с информацией о проекте.
 - **requirements.txt**: Список зависимостей проекта.
 
