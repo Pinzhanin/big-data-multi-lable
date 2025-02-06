@@ -1,0 +1,7 @@
+numpy
+pandas
+dask[dataframe]
+seaborn
+matplotlib
+scikit-learn
+joblib
